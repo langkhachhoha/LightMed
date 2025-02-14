@@ -70,7 +70,7 @@ ISIC_2018
 - [ISIC 2017](https://www.kaggle.com/datasets/phmvittin/isic-2017-rerun)
 - [Lung-Covid19](https://www.kaggle.com/datasets/haminhhieu/lung-data/data)
 - [pH2](https://www.kaggle.com/datasets/haminhhieu/ph2-dataset-final)
-- [ACDC](https://www.kaggle.com/datasets/haminhhieu/acdc-dataset-lightmed)
+- [ACDC](https://www.kaggle.com/datasets/haminhhieu/acdc-data-final)  
 ### Run on  your own dataset
 We suggest you following this notebook to set up your own dataset
 [Link repair Dataset](https://www.kaggle.com/code/haminhhieu/skin-lesion-segmentation-using-unet/notebook).
