@@ -69,7 +69,7 @@ ISIC_2018
 ### Other datasets we used
 - [ISIC 2017](https://www.kaggle.com/datasets/phmvittin/isic-2017-rerun)
 - [Lung-Covid19](https://www.kaggle.com/datasets/haminhhieu/lung-data/data)
-- [pH2](https://www.kaggle.com/datasets/haminhhieu/skin-lesion-dataset)
+- [pH2](https://www.kaggle.com/datasets/haminhhieu/ph2-dataset-final)
 - [ACDC](https://www.kaggle.com/datasets/haminhhieu/acdc-dataset-lightmed)
 ### Run on  your own dataset
 We suggest you following this notebook to set up your own dataset
